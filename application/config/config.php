@@ -27,8 +27,8 @@ defined('BASEPATH') or exit('No direct script access allowed');
 //Setingan Database
 $config['database_host']    = 'localhost';
 $config['database_user']    = 'root';
-$config['database_pass']     = 'maullana';
-$config['database_name']    = 'silelang';
+$config['database_pass']     = '';
+$config['database_name']    = 'etnicodes';
 
 //Setingan Base URL
 $config['base_url'] = ((isset($_SERVER['HTTPS']) && $_SERVER['HTTPS'] == "on") ? "https" : "http");
@@ -44,8 +44,8 @@ $config['vendor']             = $config['assets'] . 'vendor/';
 
 
 //Setingan Judul & Footer Web
-$config['web_title']        = "SILELANG";
-$config['web_footer']        = $config['web_title'] . " &copy; 2020. Version 1.0. Programmed & Designed by <a href='http://lanaysp.github.io' target='blank'>Lanaysp</a>";
+$config['web_title']        = "etnicodes";
+$config['web_footer']        = $config['web_title'] . " &copy; 2020. Version 1.0. Programmed & Designed by <a href='https://www.etnicode.com' target='blank'>Etnicode</a>";
 
 /*
 |--------------------------------------------------------------------------
