@@ -4,10 +4,10 @@
         <div class="row d-flex align-items-center">
             <div class="col-lg-6 text-lg-left text-center">
                 <div class="copyright">
-                    &copy; Copyright <strong>Etnicode</strong>. All Rights Reserved
+                    &copy; Copyright <strong>Etnicode 2020</strong>. All Rights Reserved
                 </div>
                 <div class="credits">
-                    Designed by <a href="https://.com/">Lanaysp</a>
+                    Designed by <a href="https://www.etnicode.com/">Etnicode Indonesia</a>
                 </div>
             </div>
             <div class="col-lg-6">

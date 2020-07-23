@@ -6,12 +6,12 @@
     <div class="row">
       <div class="col-lg-6 pt-5 pt-lg-0 order-2 order-lg-1 d-flex flex-column justify-content-center">
         <h1 data-aos="fade-up">
-          Buat jutaan orang <br />
-          di dunia Menemukan bisnis anda di internet
+          Onlinekan Bisnismu <br />
+          Dengan Website Profesional
         </h1>
 
         <div data-aos="fade-up" data-aos-delay="800">
-          <a href="#about" class="btn-get-started scrollto">Get Started</a>
+          <a href="#about" class="btn-get-started scrollto">Lihat Detail</a>
         </div>
       </div>
       <div class="col-lg-6 order-1 order-lg-2 hero-img" data-aos="fade-left" data-aos-delay="200">
@@ -65,33 +65,27 @@
       <div class="row content">
         <div class="col-lg-6" data-aos="fade-up" data-aos-delay="150">
           <p>
-            Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do
-            eiusmod tempor incididunt ut labore et dolore magna aliqua.
+            Memiliki website adalah solusi yang tepat agar bisnis dapat ditemukan jutaan orang diseluruh dunia. Inilah alasannya:
           </p>
           <ul>
             <li>
-              <i class="ri-check-double-line"></i> Ullamco laboris nisi ut
-              aliquip ex ea commodo consequat
+              <i class="ri-check-double-line"></i> Bisnis anda bisa diakses calon customer diseluruh dunia.
             </li>
             <li>
-              <i class="ri-check-double-line"></i> Duis aute irure dolor in
-              reprehenderit in voluptate velit
+              <i class="ri-check-double-line"></i> Market lebih spesifik dan dapat disesuikan dengan sangat mudah.
             </li>
             <li>
-              <i class="ri-check-double-line"></i> Ullamco laboris nisi ut
-              aliquip ex ea commodo consequat
+              <i class="ri-check-double-line"></i> Hemat promosi tanpa harus sewa iklan hingga jutaan rupiah.
             </li>
           </ul>
         </div>
         <div class="col-lg-6 pt-4 pt-lg-0" data-aos="fade-up" data-aos-delay="300">
           <p>
-            Ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis
-            aute irure dolor in reprehenderit in voluptate velit esse cillum
-            dolore eu fugiat nulla pariatur. Excepteur sint occaecat
-            cupidatat non proident, sunt in culpa qui officia deserunt
-            mollit anim id est laborum.
+            <b>Etnicode</b> merupakan Jasa Pembuatan Website dengan tampilan profesional dan responsive yang siap
+            membantu bisnis anda online dengan mudah dan cepat. Kami melayani berbagai macam pembuatan website
+            seperti website sekolah, website perusahaan, website toko online hingga custom website ...
           </p>
-          <a href="#" class="btn-learn-more">Learn More</a>
+          <a href="#" class="btn-learn-more">Baca Selengkapnya</a>
         </div>
       </div>
     </div>
@@ -112,10 +106,10 @@
               <div class="col-md-6 d-md-flex align-items-md-stretch">
                 <div class="count-box">
                   <i class="icofont-simple-smile"></i>
-                  <span data-toggle="counter-up">65</span>
+                  <span data-toggle="counter-up">25</span>
                   <p>
-                    <strong>Happy Clients</strong> consequuntur voluptas
-                    nostrum aliquid ipsam architecto ut.
+                    <strong>Clients Puas</strong> dengan project yang kami kerjakan
+                    untuk kebutuhan bisnisnya.
                   </p>
                 </div>
               </div>
@@ -125,8 +119,8 @@
                   <i class="icofont-document-folder"></i>
                   <span data-toggle="counter-up">85</span>
                   <p>
-                    <strong>Projects</strong> adipisci atque cum quia
-                    aspernatur totam laudantium et quia dere tan
+                    <strong>Website</strong> UMKM yang sudah kami selesaikan
+                    dan sudah digunakan sesuai kebutuhan clients.
                   </p>
                 </div>
               </div>
@@ -134,10 +128,10 @@
               <div class="col-md-6 d-md-flex align-items-md-stretch">
                 <div class="count-box">
                   <i class="icofont-clock-time"></i>
-                  <span data-toggle="counter-up">12</span>
+                  <span data-toggle="counter-up">6</span>
                   <p>
-                    <strong>Years of experience</strong> aut commodi quaerat
-                    modi aliquam nam ducimus aut voluptate non vel
+                    <strong>Tahun</strong> lebih tim kami memiliki jam terbang
+                    yang tinggi dalam bidang web developer.
                   </p>
                 </div>
               </div>
@@ -145,10 +139,10 @@
               <div class="col-md-6 d-md-flex align-items-md-stretch">
                 <div class="count-box">
                   <i class="icofont-award"></i>
-                  <span data-toggle="counter-up">15</span>
+                  <span data-toggle="counter-up">48</span>
                   <p>
-                    <strong>Awards</strong> rerum asperiores dolor alias quo
-                    reprehenderit eum et nemo pad der
+                    <strong>Support</strong> dari clients untuk Etnicode Indonesia
+                    agar terus membantu UMKM memiliki website dengan mudah.
                   </p>
                 </div>
               </div>
@@ -167,7 +161,7 @@
       <div class="section-title" data-aos="fade-up">
         <h2>Services</h2>
         <p>
-          Magnam dolores commodi suscipit eius consequatur ex aliquid fug
+          Apa saja yang bisa Etnicode bantu untuk bisnis anda:
         </p>
       </div>
 
@@ -175,10 +169,10 @@
         <div class="col-md-6 col-lg-3 d-flex align-items-stretch mb-5 mb-lg-0">
           <div class="icon-box" data-aos="fade-up" data-aos-delay="100">
             <div class="icon"><i class="bx bxl-wordpress"></i></div>
-            <h4 class="title"><a href="">Lorem Ipsum</a></h4>
+            <h4 class="title"><a href="">Wordpress Developer</a></h4>
             <p class="description">
-              Voluptatum deleniti atque corrupti quos dolores et quas
-              molestias excepturi
+              Etnicode melayani jasa pembuatan berbagai macam website menggunakan CMS Wordpress
+              dengan tampilan profesional harga bersahabat.
             </p>
           </div>
         </div>
@@ -186,10 +180,10 @@
         <div class="col-md-6 col-lg-3 d-flex align-items-stretch mb-5 mb-lg-0">
           <div class="icon-box" data-aos="fade-up" data-aos-delay="200">
             <div class="icon"><i class="bx bx-file"></i></div>
-            <h4 class="title"><a href="">Sed ut perspiciatis</a></h4>
+            <h4 class="title"><a href="">Desain Grafis</a></h4>
             <p class="description">
-              Duis aute irure dolor in reprehenderit in voluptate velit esse
-              cillum dolore
+              Etnicode menawarkan Jasa Desain Grafis untuk anda yang membutuhkan desain
+              seperti logo, banner, spanduk, konten social media marketing dll.
             </p>
           </div>
         </div>
@@ -197,10 +191,10 @@
         <div class="col-md-6 col-lg-3 d-flex align-items-stretch mb-5 mb-lg-0">
           <div class="icon-box" data-aos="fade-up" data-aos-delay="300">
             <div class="icon"><i class="bx bx-tachometer"></i></div>
-            <h4 class="title"><a href="">Magni Dolores</a></h4>
+            <h4 class="title"><a href="">SEO Website</a></h4>
             <p class="description">
-              Excepteur sint occaecat cupidatat non proident, sunt in culpa
-              qui officia
+              Website anda susah menempati halaman satu Google? Gunakan
+              Jasa SEO Etnicode agar menjadi juara di halaman pertama Google.
             </p>
           </div>
         </div>
@@ -208,10 +202,10 @@
         <div class="col-md-6 col-lg-3 d-flex align-items-stretch mb-5 mb-lg-0">
           <div class="icon-box" data-aos="fade-up" data-aos-delay="400">
             <div class="icon"><i class="bx bx-world"></i></div>
-            <h4 class="title"><a href="">Nemo Enim</a></h4>
+            <h4 class="title"><a href="">Custom Website</a></h4>
             <p class="description">
-              At vero eos et accusamus et iusto odio dignissimos ducimus qui
-              blanditiis
+              Punya kebutuhan tertentu dalam membuat website? Etnicode siap membantu
+              website anda segera online dan siap digunakan dengan waktu yang cepat dan akurat.
             </p>
           </div>
         </div>
@@ -311,21 +305,20 @@
     <div class="container">
       <div class="section-title" data-aos="fade-up">
         <h2>Testimonials</h2>
-        <p>Magnam dolores commodi suscipit eum quidem consectetur velit</p>
+        <p>Apa kata mereka yang sudah menggunakan Jasa Etnicode</p>
       </div>
 
       <div class="owl-carousel testimonials-carousel" data-aos="fade-up" data-aos-delay="200">
         <div class="testimonial-wrap">
           <div class="testimonial-item">
             <img src="assets/img/testimonials/testimonials-1.jpg" class="testimonial-img" alt="" />
-            <h3>Saul Goodman</h3>
-            <h4>Ceo &amp; Founder</h4>
+            <h3>Ujang Arifin</h3>
+            <h4>Ceo &amp; Internet Marketer</h4>
             <p>
               <i class="bx bxs-quote-alt-left quote-icon-left"></i>
-              Proin iaculis purus consequat sem cure digni ssim donec
-              porttitora entum suscipit rhoncus. Accusantium quam, ultricies
-              eget id, aliquam eget nibh et. Maecen aliquam, risus at
-              semper.
+              Pelayanan tim Etnicode sangat cepat dan juga asyik, sehingga
+              saya sangat nyaman saat melakukan kerjasama untuk pembuatan
+              website toko online saya. Terimakasih Etnicode Indonesia, sukses selalu.
               <i class="bx bxs-quote-alt-right quote-icon-right"></i>
             </p>
           </div>
@@ -334,14 +327,13 @@
         <div class="testimonial-wrap">
           <div class="testimonial-item">
             <img src="assets/img/testimonials/testimonials-2.jpg" class="testimonial-img" alt="" />
-            <h3>Sara Wilsson</h3>
-            <h4>Designer</h4>
+            <h3>Zainal Makruf</h3>
+            <h4>Android Developer</h4>
             <p>
               <i class="bx bxs-quote-alt-left quote-icon-left"></i>
-              Export tempor illum tamen malis malis eram quae irure esse
-              labore quem cillum quid cillum eram malis quorum velit fore
-              eram velit sunt aliqua noster fugiat irure amet legam anim
-              culpa.
+              Selama ini hanya bergelut didunia Android, untuk masalah website
+              saya selalu percayakan kepada Etnicode Indonesia, dan hasilnya
+              sangat memuaskan, prosesnyapun cepat tanpa menunggu waktu yang panjang.
               <i class="bx bxs-quote-alt-right quote-icon-right"></i>
             </p>
           </div>
@@ -350,13 +342,13 @@
         <div class="testimonial-wrap">
           <div class="testimonial-item">
             <img src="assets/img/testimonials/testimonials-3.jpg" class="testimonial-img" alt="" />
-            <h3>Jena Karlis</h3>
-            <h4>Store Owner</h4>
+            <h3>Ahmad Maghfur</h3>
+            <h4>Mahasiswa</h4>
             <p>
               <i class="bx bxs-quote-alt-left quote-icon-left"></i>
-              Enim nisi quem export duis labore cillum quae magna enim sint
-              quorum nulla quem veniam duis minim tempor labore quem eram
-              duis noster aute amet eram fore quis sint minim.
+              Awalnya saya ingin membuat toko online untuk bisnis sampingan saya,
+              tapi sulit mencari jasa pembuatan website yang benar-benar bagus.
+              Setelah mempercayakan di Etnicode, akhirnya toko online saya sudah bisa diakses calon customer saya.
               <i class="bx bxs-quote-alt-right quote-icon-right"></i>
             </p>
           </div>
@@ -365,14 +357,13 @@
         <div class="testimonial-wrap">
           <div class="testimonial-item">
             <img src="assets/img/testimonials/testimonials-4.jpg" class="testimonial-img" alt="" />
-            <h3>Matt Brandon</h3>
+            <h3>Miftahul Huda</h3>
             <h4>Freelancer</h4>
             <p>
               <i class="bx bxs-quote-alt-left quote-icon-left"></i>
-              Fugiat enim eram quae cillum dolore dolor amet nulla culpa
-              multos export minim fugiat minim velit minim dolor enim duis
-              veniam ipsum anim magna sunt elit fore quem dolore labore
-              illum veniam.
+              Bersama Etnicode Indonesia tidak hanya mendapat bantuan seputar
+              pembuatan website, tapi saya juga bisa konsultasi gratis dengan
+              timnya yang sangat ramah dan welcome untuk bertukar pikiran.
               <i class="bx bxs-quote-alt-right quote-icon-right"></i>
             </p>
           </div>
@@ -381,14 +372,13 @@
         <div class="testimonial-wrap">
           <div class="testimonial-item">
             <img src="assets/img/testimonials/testimonials-5.jpg" class="testimonial-img" alt="" />
-            <h3>John Larson</h3>
+            <h3>Raka</h3>
             <h4>Entrepreneur</h4>
             <p>
               <i class="bx bxs-quote-alt-left quote-icon-left"></i>
-              Quis quorum aliqua sint quem legam fore sunt eram irure aliqua
-              veniam tempor noster veniam enim culpa labore duis sunt culpa
-              nulla illum cillum fugiat legam esse veniam culpa fore nisi
-              cillum quid.
+              Pengalaman saya menggunakan jasa dari Etnicode sangat memuaskan,
+              karena website toko online sepatu saya akhirnya bisa online. Saya juga
+              mendapat panduan tutorial. Semoga selalu diberikan kesehatan.
               <i class="bx bxs-quote-alt-right quote-icon-right"></i>
             </p>
           </div>
@@ -403,15 +393,17 @@
     <div class="container">
       <div class="section-title" data-aos="fade-up">
         <h2>Portfolio</h2>
-        <p>Necessitatibus eius consequatur ex aliquid fuga eum quidem</p>
+        <p>Etnicode Indonesia sudah membantu ratusan UMKM untuk Go Digital</p>
       </div>
 
       <div class="row" data-aos="fade-up" data-aos-delay="200">
         <div class="col-lg-12 d-flex justify-content-center">
           <ul id="portfolio-flters">
             <li data-filter="*" class="filter-active">All</li>
-            <li data-filter=".filter-app">App</li>
-            <li data-filter=".filter-web">Web</li>
+            <li data-filter=".filter-app">Wordpress</li>
+            <li data-filter=".filter-web">Desain Grafis</li>
+            <li data-filter=".filter-web">SEO Website</li>
+            <li data-filter=".filter-web">Custom Web</li>
           </ul>
         </div>
       </div>
@@ -419,12 +411,26 @@
       <div class="row portfolio-container" data-aos="fade-up" data-aos-delay="400">
         <div class="col-lg-4 col-md-6 portfolio-item filter-app">
           <div class="portfolio-wrap">
-            <img src="assets/img/portfolio/kasir.jpg" class="img-fluid" alt="" />
+            <img src="assets/img/portfolio/portfolio-1.png" class="img-fluid" alt="" />
             <div class="portfolio-info">
-              <h4>App 1</h4>
-              <p>App</p>
+              <h4>Wordpress</h4>
+              <p>Wordpress</p>
               <div class="portfolio-links">
-                <a href="assets/img/portfolio/kasir.JPG" data-gall="portfolioGallery" class="venobox" title="App 1"><i class="bx bx-plus"></i></a>
+                <a href="assets/img/portfolio/portfolio-1.png" data-gall="portfolioGallery" class="venobox" title="App 1"><i class="bx bx-plus"></i></a>
+                <a href="portfolio-details.html" title="More Details"><i class="bx bx-link"></i></a>
+              </div>
+            </div>
+          </div>
+        </div>
+
+        <div class="col-lg-4 col-md-6 portfolio-item filter-app">
+          <div class="portfolio-wrap">
+            <img src="assets/img/portfolio/portfolio-4.png" class="img-fluid" alt="" />
+            <div class="portfolio-info">
+              <h4>Desain Grafis</h4>
+              <p>Desain Grafis</p>
+              <div class="portfolio-links">
+                <a href="assets/img/portfolio/portfolio-png" data-gall="portfolioGallery" class="venobox" title="App 1"><i class="bx bx-plus"></i></a>
                 <a href="portfolio-details.html" title="More Details"><i class="bx bx-link"></i></a>
               </div>
             </div>
@@ -433,12 +439,12 @@
 
         <div class="col-lg-4 col-md-6 portfolio-item filter-web">
           <div class="portfolio-wrap">
-            <img src="assets/img/portfolio/silelang.JPG" class="img-fluid" alt="" />
+            <img src="assets/img/portfolio/portfolio-7.png" class="img-fluid" alt="" />
             <div class="portfolio-info">
-              <h4>Web 3</h4>
-              <p>Web</p>
+              <h4>SEO Website</h4>
+              <p>SEO Website</p>
               <div class="portfolio-links">
-                <a href="assets/img/portfolio/silelang.JPG" data-gall="portfolioGallery" class="venobox" title="Web 3"><i class="bx bx-plus"></i></a>
+                <a href="assets/img/portfolio/portfolio-7.png" data-gall="portfolioGallery" class="venobox" title="Web 3"><i class="bx bx-plus"></i></a>
                 <a href="portfolio-details.html" title="More Details"><i class="bx bx-link"></i></a>
               </div>
             </div>
@@ -446,12 +452,12 @@
         </div>
         <div class="col-lg-4 col-md-6 portfolio-item filter-web">
           <div class="portfolio-wrap">
-            <img src="assets/img/portfolio/tabungan.JPG" class="img-fluid" alt="" />
+            <img src="assets/img/portfolio/portfolio-3.png" class="img-fluid" alt="" />
             <div class="portfolio-info">
-              <h4>Web 3</h4>
-              <p>Web</p>
+              <h4>Custome Website</h4>
+              <p>Custome Website</p>
               <div class="portfolio-links">
-                <a href="assets/img/portfolio/tabungan.JPG" data-gall="portfolioGallery" class="venobox" title="Web 3"><i class="bx bx-plus"></i></a>
+                <a href="assets/img/portfolio/portfolio-3.png" data-gall="portfolioGallery" class="venobox" title="Web 3"><i class="bx bx-plus"></i></a>
                 <a href="portfolio-details.html" title="More Details"><i class="bx bx-link"></i></a>
               </div>
             </div>
@@ -467,7 +473,7 @@
     <div class="container">
       <div class="section-title" data-aos="fade-up">
         <h2>Team</h2>
-        <p>Necessitatibus eius consequatur ex aliquid fuga eum quidem</p>
+        <p>Dapatkan pelayanan spesial bersama tim Etnicode Indonesia</p>
       </div>
 
       <div class="row">
@@ -476,15 +482,15 @@
             <div class="member-img">
               <img src="assets/img/team/team-1.jpg" class="img-fluid" alt="" />
               <div class="social">
-                <a href=""><i class="icofont-twitter"></i></a>
-                <a href=""><i class="icofont-facebook"></i></a>
-                <a href=""><i class="icofont-instagram"></i></a>
-                <a href=""><i class="icofont-linkedin"></i></a>
+                <a href="https://www.twitter.com/muhamadanik_"><i class="icofont-twitter"></i></a>
+                <a href="https://web.facebook.com/anikbusiness"><i class="icofont-facebook"></i></a>
+                <a href="https://www.instagram.com/muhamadanik_/"><i class="icofont-instagram"></i></a>
+                <a href="https://www.linkedin.com/in/muhamadanik/"><i class="icofont-linkedin"></i></a>
               </div>
             </div>
             <div class="member-info">
-              <h4>Walter White</h4>
-              <span>Chief Executive Officer</span>
+              <h4>Muhamad Anik</h4>
+              <span>Web Developer</span>
             </div>
           </div>
         </div>
@@ -501,8 +507,8 @@
               </div>
             </div>
             <div class="member-info">
-              <h4>Sarah Jhonson</h4>
-              <span>Product Manager</span>
+              <h4>Maulana Yusup</h4>
+              <span>Web Developer</span>
             </div>
           </div>
         </div>
@@ -519,8 +525,8 @@
               </div>
             </div>
             <div class="member-info">
-              <h4>William Anderson</h4>
-              <span>CTO</span>
+              <h4>Tsalist Nabila</h4>
+              <span>Desainer</span>
             </div>
           </div>
         </div>
@@ -537,8 +543,8 @@
               </div>
             </div>
             <div class="member-info">
-              <h4>Amanda Jepson</h4>
-              <span>Accountant</span>
+              <h4>Ujang Arifin</h4>
+              <span>Wordpress Developer</span>
             </div>
           </div>
         </div>
@@ -615,19 +621,19 @@
   <section id="faq" class="faq">
     <div class="container">
       <div class="section-title" data-aos="fade-up">
-        <h2>Frequently Asked Questions</h2>
+        <h2>FAQ</h2>
       </div>
 
       <div class="row faq-item d-flex align-items-stretch" data-aos="fade-up" data-aos-delay="100">
         <div class="col-lg-5">
           <i class="ri-question-line"></i>
-          <h4>Non consectetur a erat nam at lectus urna duis?</h4>
+          <h4>Apakah bisa membuat website sesuai kebutuhan bisnis saya?</h4>
         </div>
         <div class="col-lg-7">
           <p>
-            Feugiat pretium nibh ipsum consequat. Tempus iaculis urna id
-            volutpat lacus laoreet non curabitur gravida. Venenatis lectus
-            magna fringilla urna porttitor rhoncus dolor purus non.
+            Bisa. Kami siap membantu bisnis anda segera Go Online dengan tampilan
+            profesional dan responsive. Kami bisa membantu anda membuatkan website
+            toko online, sekolah, kesehatan, portfolio, jasa dan lain-lain.
           </p>
         </div>
       </div>
@@ -637,16 +643,14 @@
         <div class="col-lg-5">
           <i class="ri-question-line"></i>
           <h4>
-            Feugiat scelerisque varius morbi enim nunc faucibus a
-            pellentesque?
+            Bagaimana sistem pemesanannya jika saya ingin menggunakan Jasa Etnicode?
           </h4>
         </div>
         <div class="col-lg-7">
           <p>
-            Dolor sit amet consectetur adipiscing elit pellentesque habitant
-            morbi. Id interdum velit laoreet id donec ultrices. Fringilla
-            phasellus faucibus scelerisque eleifend donec pretium. Est
-            pellentesque elit ullamcorper dignissim.
+            Cukup mudah dilakukan. Anda tinggal menyesuaikan kebutuhan anda seperti ingin membuat website apa, atau desain apa dan lain-lain,
+            kemudian siapkan detail data diri anda seperti anma dan alamat, dan terakhir
+            hubungi kontak resmi Etnciode, kami akan segera merespon pesan anda.
           </p>
         </div>
       </div>
@@ -656,17 +660,14 @@
         <div class="col-lg-5">
           <i class="ri-question-line"></i>
           <h4>
-            Dolor sit amet consectetur adipiscing elit pellentesque habitant
-            morbi?
+            Apa saja yang harus saya siapkan jika menggunakan layanan Etnicode?
           </h4>
         </div>
         <div class="col-lg-7">
           <p>
-            Eleifend mi in nulla posuere sollicitudin aliquam ultrices
-            sagittis orci. Faucibus pulvinar elementum integer enim. Sem
-            nulla pharetra diam sit amet nisl suscipit. Rutrum tellus
-            pellentesque eu tincidunt. Lectus urna duis convallis convallis
-            tellus.
+            Yang harus kalian siapkan pertama kali ialah detail data diri anda seperti nama lengkap, alamat lengkap,
+            email aktif, nomor telp/whatsapp. Selanjutnya bisa menyusul setelah anda terhubung langsung
+            dengan tim Etnicode di whatsapp atau telegram.
           </p>
         </div>
       </div>
@@ -676,15 +677,14 @@
         <div class="col-lg-5">
           <i class="ri-question-line"></i>
           <h4>
-            Ac odio tempor orci dapibus. Aliquam eleifend mi in nulla?
+            Berapa lama pembuatan website sampai online dan siap digunakan?
           </h4>
         </div>
         <div class="col-lg-7">
           <p>
-            Aperiam itaque sit optio et deleniti eos nihil quidem cumque.
-            Voluptas dolorum accusantium sunt sit enim. Provident
-            consequuntur quam aut reiciendis qui rerum dolorem sit odio.
-            Repellat assumenda soluta sunt pariatur error doloribus fuga.
+            Untuk waktu proses yang dibutuhkan, kami akan menyesuaikan dengan website apa
+            yang akan anda buat. Bisa cepat bisa juga lebih lambat, semua tergantung website
+            yang akan dikerjakan. Oleh karena itu, silahkan langsung konsultasikan melalui whatsapp Etnicode.
           </p>
         </div>
       </div>
@@ -694,16 +694,14 @@
         <div class="col-lg-5">
           <i class="ri-question-line"></i>
           <h4>
-            Tempus quam pellentesque nec nam aliquam sem et tortor
-            consequat?
+            Apakah saya boleh tetap konsultasi setelah pemesanan website selesai?
           </h4>
         </div>
         <div class="col-lg-7">
           <p>
-            Molestie a iaculis at erat pellentesque adipiscing commodo.
-            Dignissim suspendisse in est ante in. Nunc vel risus commodo
-            viverra maecenas accumsan. Sit amet nisl suscipit adipiscing
-            bibendum est. Purus gravida quis blandit turpis cursus in
+            Boleh saja, anda bisa konsultasi gratis bersama tim Etnicode walaupun
+            website anda sudah jadi dan digunakan. Kami akan senang sekali jika
+            anda menjaga komunikasi dengan tim Etnicode Indonesia.
           </p>
         </div>
       </div>
@@ -724,10 +722,9 @@
           <div class="contact-about">
             <img src="assets/img/logo/l_big.png" width="250px" />
             <p>
-              Cras fermentum odio eu feugiat. Justo eget magna fermentum
-              iaculis eu non diam phasellus. Scelerisque felis imperdiet
-              proin fermentum leo. Amet volutpat consequat mauris nunc
-              congue.
+              Etnicode Indonesia adalah Jasa Pembuatan Website profesional
+              yang akan membantu bisnis anda online dengan mudah dan cepat
+              sehingga bisnis anda menjadi terdepan.
             </p>
             <div class="social-links">
               <a href="#" class="twitter"><i class="icofont-twitter"></i></a>
@@ -742,17 +739,17 @@
           <div class="info">
             <div>
               <i class="ri-map-pin-line"></i>
-              <p>A108 Adam Street<br />New York, NY 535022</p>
+              <p>Perum Alam Krapyak No. A14<br />Krapyak, Tahunan, Jepara 59421</p>
             </div>
 
             <div>
               <i class="ri-mail-send-line"></i>
-              <p>info@example.com</p>
+              <p>etnicode@gmail.com</p>
             </div>
 
             <div>
               <i class="ri-phone-line"></i>
-              <p>+1 5589 55488 55s</p>
+              <p>0822-6000-0513</p>
             </div>
           </div>
         </div>
@@ -779,11 +776,11 @@
               <div class="loading">Loading</div>
               <div class="error-message"></div>
               <div class="sent-message">
-                Your message has been sent. Thank you!
+                Pesan Anda telah dikirim, kami akan segera membalas pesan anda. Terima kasih!
               </div>
             </div>
             <div class="text-center">
-              <button type="submit">Send Message</button>
+              <button type="submit">Kirim Pesan</button>
             </div>
           </form>
         </div>
