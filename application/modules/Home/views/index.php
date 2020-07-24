@@ -404,7 +404,7 @@
             <li data-filter=".filter-wp">Wordpress</li>
             <li data-filter=".filter-ds">Desain</li>
             <li data-filter=".filter-seo">SEO Website</li>
-            <li data-filter=".filter-web">Custom Web</li>
+            <li data-filter=".filter-wp">Custom Web</li>
           </ul>
         </div>
       </div>
