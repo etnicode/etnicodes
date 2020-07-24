@@ -401,16 +401,16 @@
         <div class="col-lg-12 d-flex justify-content-center">
           <ul id="portfolio-flters">
             <li data-filter="*" class="filter-active">All</li>
-            <li data-filter=".filter-app">Wordpress</li>
-            <li data-filter=".filter-web">Desain</li>
-            <li data-filter=".filter-web">SEO Website</li>
+            <li data-filter=".filter-wp">Wordpress</li>
+            <li data-filter=".filter-ds">Desain</li>
+            <li data-filter=".filter-seo">SEO Website</li>
             <li data-filter=".filter-web">Custom Web</li>
           </ul>
         </div>
       </div>
 
       <div class="row portfolio-container" data-aos="fade-up" data-aos-delay="400">
-        <div class="col-lg-4 col-md-6 portfolio-item filter-app">
+        <div class="col-lg-4 col-md-6 portfolio-item filter-wp">
           <div class="portfolio-wrap">
             <img src="assets/img/portfolio/portfolio-1.png" class="img-fluid" alt="" />
             <div class="portfolio-info">
@@ -424,21 +424,74 @@
           </div>
         </div>
 
-        <div class="col-lg-4 col-md-6 portfolio-item filter-app">
+        <div class="col-lg-4 col-md-6 portfolio-item filter-wp">
           <div class="portfolio-wrap">
-            <img src="assets/img/portfolio/portfolio-4.png" class="img-fluid" alt="" />
+            <img src="assets/img/portfolio/portfolio-2.png" class="img-fluid" alt="" />
             <div class="portfolio-info">
               <h4>Desain</h4>
               <p>Desain</p>
               <div class="portfolio-links">
-                <a href="assets/img/portfolio/portfolio-png" data-gall="portfolioGallery" class="venobox" title="App 1"><i class="bx bx-plus"></i></a>
+                <a href="assets/img/portfolio/portfolio-2-png" data-gall="portfolioGallery" class="venobox" title="App 1"><i class="bx bx-plus"></i></a>
                 <a href="portfolio-details.html" title="More Details"><i class="bx bx-link"></i></a>
               </div>
             </div>
           </div>
         </div>
 
-        <div class="col-lg-4 col-md-6 portfolio-item filter-web">
+        <div class="col-lg-4 col-md-6 portfolio-item filter-wp">
+          <div class="portfolio-wrap">
+            <img src="assets/img/portfolio/portfolio-3.png" class="img-fluid" alt="" />
+            <div class="portfolio-info">
+              <h4>SEO Website</h4>
+              <p>SEO Website</p>
+              <div class="portfolio-links">
+                <a href="assets/img/portfolio/portfolio-3.png" data-gall="portfolioGallery" class="venobox" title="Web 3"><i class="bx bx-plus"></i></a>
+                <a href="portfolio-details.html" title="More Details"><i class="bx bx-link"></i></a>
+              </div>
+            </div>
+          </div>
+        </div>
+        <!-- 2 -->
+        <div class="col-lg-4 col-md-6 portfolio-item filter-ds">
+          <div class="portfolio-wrap">
+            <img src="assets/img/portfolio/portfolio-4.png" class="img-fluid" alt="" />
+            <div class="portfolio-info">
+              <h4>SEO Website</h4>
+              <p>SEO Website</p>
+              <div class="portfolio-links">
+                <a href="assets/img/portfolio/portfolio-4.png" data-gall="portfolioGallery" class="venobox" title="Web 3"><i class="bx bx-plus"></i></a>
+                <a href="portfolio-details.html" title="More Details"><i class="bx bx-link"></i></a>
+              </div>
+            </div>
+          </div>
+        </div>
+        <div class="col-lg-4 col-md-6 portfolio-item filter-ds">
+          <div class="portfolio-wrap">
+            <img src="assets/img/portfolio/portfolio-5.png" class="img-fluid" alt="" />
+            <div class="portfolio-info">
+              <h4>SEO Website</h4>
+              <p>SEO Website</p>
+              <div class="portfolio-links">
+                <a href="assets/img/portfolio/portfolio-5.png" data-gall="portfolioGallery" class="venobox" title="Web 3"><i class="bx bx-plus"></i></a>
+                <a href="portfolio-details.html" title="More Details"><i class="bx bx-link"></i></a>
+              </div>
+            </div>
+          </div>
+        </div>
+        <div class="col-lg-4 col-md-6 portfolio-item filter-ds">
+          <div class="portfolio-wrap">
+            <img src="assets/img/portfolio/portfolio-6.png" class="img-fluid" alt="" />
+            <div class="portfolio-info">
+              <h4>SEO Website</h4>
+              <p>SEO Website</p>
+              <div class="portfolio-links">
+                <a href="assets/img/portfolio/portfolio-6.png" data-gall="portfolioGallery" class="venobox" title="Web 3"><i class="bx bx-plus"></i></a>
+                <a href="portfolio-details.html" title="More Details"><i class="bx bx-link"></i></a>
+              </div>
+            </div>
+          </div>
+        </div>
+        <div class="col-lg-4 col-md-6 portfolio-item filter-seo">
           <div class="portfolio-wrap">
             <img src="assets/img/portfolio/portfolio-7.png" class="img-fluid" alt="" />
             <div class="portfolio-info">
@@ -451,19 +504,33 @@
             </div>
           </div>
         </div>
-        <div class="col-lg-4 col-md-6 portfolio-item filter-web">
+        <div class="col-lg-4 col-md-6 portfolio-item filter-seo">
           <div class="portfolio-wrap">
-            <img src="assets/img/portfolio/portfolio-3.png" class="img-fluid" alt="" />
+            <img src="assets/img/portfolio/portfolio-7.png" class="img-fluid" alt="" />
             <div class="portfolio-info">
-              <h4>Custome Website</h4>
-              <p>Custome Website</p>
+              <h4>SEO Website</h4>
+              <p>SEO Website</p>
               <div class="portfolio-links">
-                <a href="assets/img/portfolio/portfolio-3.png" data-gall="portfolioGallery" class="venobox" title="Web 3"><i class="bx bx-plus"></i></a>
+                <a href="assets/img/portfolio/portfolio-8.png" data-gall="portfolioGallery" class="venobox" title="Web 3"><i class="bx bx-plus"></i></a>
                 <a href="portfolio-details.html" title="More Details"><i class="bx bx-link"></i></a>
               </div>
             </div>
           </div>
         </div>
+        <div class="col-lg-4 col-md-6 portfolio-item filter-seo">
+          <div class="portfolio-wrap">
+            <img src="assets/img/portfolio/portfolio-8.png" class="img-fluid" alt="" />
+            <div class="portfolio-info">
+              <h4>SEO Website</h4>
+              <p>SEO Website</p>
+              <div class="portfolio-links">
+                <a href="assets/img/portfolio/portfolio-8.png" data-gall="portfolioGallery" class="venobox" title="Web 3"><i class="bx bx-plus"></i></a>
+                <a href="portfolio-details.html" title="More Details"><i class="bx bx-link"></i></a>
+              </div>
+            </div>
+          </div>
+        </div>
+
       </div>
     </div>
   </section>
