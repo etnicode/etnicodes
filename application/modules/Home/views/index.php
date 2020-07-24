@@ -11,7 +11,7 @@
         </h1>
 
         <div data-aos="fade-up" data-aos-delay="800">
-          <a href="#about" class="btn-get-started scrollto">Lihat Detail</a>
+          <a href="#about" class="btn-get-started scrollto mt-3">Lihat Detail</a>
         </div>
       </div>
       <div class="col-lg-6 order-1 order-lg-2 hero-img" data-aos="fade-left" data-aos-delay="200">
@@ -180,10 +180,11 @@
         <div class="col-md-6 col-lg-3 d-flex align-items-stretch mb-5 mb-lg-0">
           <div class="icon-box" data-aos="fade-up" data-aos-delay="200">
             <div class="icon"><i class="bx bx-file"></i></div>
-            <h4 class="title"><a href="">Desain Grafis</a></h4>
+            <h4 class="title"><a href="">Desain Profesional</a></h4>
             <p class="description">
-              Etnicode menawarkan Jasa Desain Grafis untuk anda yang membutuhkan desain
-              seperti logo, banner, spanduk, konten social media marketing dll.
+              Etnicode menawarkan Jasa Desain Grafis, Web Design, Apps Design
+              dengan tampilan profesional yang siap membantu bisnis anda
+              tampil lebih profesional.
             </p>
           </div>
         </div>
@@ -401,7 +402,7 @@
           <ul id="portfolio-flters">
             <li data-filter="*" class="filter-active">All</li>
             <li data-filter=".filter-app">Wordpress</li>
-            <li data-filter=".filter-web">Desain Grafis</li>
+            <li data-filter=".filter-web">Desain</li>
             <li data-filter=".filter-web">SEO Website</li>
             <li data-filter=".filter-web">Custom Web</li>
           </ul>
@@ -427,8 +428,8 @@
           <div class="portfolio-wrap">
             <img src="assets/img/portfolio/portfolio-4.png" class="img-fluid" alt="" />
             <div class="portfolio-info">
-              <h4>Desain Grafis</h4>
-              <p>Desain Grafis</p>
+              <h4>Desain</h4>
+              <p>Desain</p>
               <div class="portfolio-links">
                 <a href="assets/img/portfolio/portfolio-png" data-gall="portfolioGallery" class="venobox" title="App 1"><i class="bx bx-plus"></i></a>
                 <a href="portfolio-details.html" title="More Details"><i class="bx bx-link"></i></a>
@@ -727,10 +728,12 @@
               sehingga bisnis anda menjadi terdepan.
             </p>
             <div class="social-links">
-              <a href="#" class="twitter"><i class="icofont-twitter"></i></a>
-              <a href="#" class="facebook"><i class="icofont-facebook"></i></a>
-              <a href="#" class="instagram"><i class="icofont-instagram"></i></a>
-              <a href="#" class="linkedin"><i class="icofont-linkedin"></i></a>
+              <!-- <a href="#" class="twitter"><i class="icofont-twitter"></i></a> -->
+              <a href="https://web.facebook.com/etnicode.dev.3" class="facebook"><i class="icofont-facebook"></i></a>
+              <a href="https://www.instagram.com/etnicode/" class="instagram"><i class="icofont-instagram"></i></a>
+              <a href="https://bit.ly/etnicodeweb" class="instagram"><i class="icofont-whatsapp"></i></a>
+              <!-- <a href="#" class="linkedin"><i class="icofont-behance"></i></a> -->
+              <a href=" https://bit.ly/etnicodechannel" class="linkedin"><i class="icofont-youtube"></i></a>
             </div>
           </div>
         </div>
@@ -755,7 +758,7 @@
         </div>
 
         <div class="col-lg-5 col-md-12" data-aos="fade-up" data-aos-delay="300">
-          <form action="forms/contact.php" method="post" role="form" class="php-email-form">
+          <form action="<?= config_item('Home/sendMail'); ?>" method="post" class="php-email-form">
             <div class="form-group">
               <input type="text" name="name" class="form-control" id="name" placeholder="Your Name" data-rule="minlen:4" data-msg="Please enter at least 4 chars" />
               <div class="validate"></div>
