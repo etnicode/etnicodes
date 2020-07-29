@@ -3,7 +3,7 @@
 -- https://www.phpmyadmin.net/
 --
 -- Host: 127.0.0.1
--- Waktu pembuatan: 26 Jul 2020 pada 12.47
+-- Waktu pembuatan: 29 Jul 2020 pada 21.43
 -- Versi server: 10.4.13-MariaDB
 -- Versi PHP: 7.2.31
 
@@ -18,8 +18,48 @@ SET time_zone = "+00:00";
 /*!40101 SET NAMES utf8mb4 */;
 
 --
--- Database: `silelang`
+-- Database: `etnicode_db`
 --
+
+-- --------------------------------------------------------
+
+--
+-- Struktur dari tabel `client`
+--
+
+CREATE TABLE `client` (
+  `id` int(11) NOT NULL,
+  `image` varchar(100) NOT NULL,
+  `link` varchar(100) NOT NULL
+) ENGINE=InnoDB DEFAULT CHARSET=utf8mb4;
+
+--
+-- Dumping data untuk tabel `client`
+--
+
+INSERT INTO `client` (`id`, `image`, `link`) VALUES
+(1, 'default.png', 'etnicode.com');
+
+-- --------------------------------------------------------
+
+--
+-- Struktur dari tabel `portfolio`
+--
+
+CREATE TABLE `portfolio` (
+  `id` int(11) NOT NULL,
+  `nama` varchar(100) NOT NULL,
+  `link` varchar(100) NOT NULL,
+  `image` varchar(100) NOT NULL,
+  `filter` varchar(100) NOT NULL
+) ENGINE=InnoDB DEFAULT CHARSET=utf8mb4;
+
+--
+-- Dumping data untuk tabel `portfolio`
+--
+
+INSERT INTO `portfolio` (`id`, `nama`, `link`, `image`, `filter`) VALUES
+(35, 'Shop', 'sas', 'default.jpg', 'seo');
 
 -- --------------------------------------------------------
 
@@ -44,9 +84,7 @@ CREATE TABLE `user` (
 
 INSERT INTO `user` (`id`, `name`, `email`, `image`, `password`, `role_id`, `is_active`, `date_created`) VALUES
 (8, 'Maulana Yusup', 'lanaysps@gmail.com', 'default.jpg', '$2y$10$prkhMzFCStzP2IkB6A74i.9uBDfPdJo4TLkkiv.SVge0L93iF2m5C', 1, 1, 1594113181),
-(9, 'maul', 'maul@gmail.com', 'default.jpg', '$2y$10$IYAL7s6nesfxA.5wP7fZcOEC4SUhX1hxVgd12LC77bBlSNawVd0te', 2, 1, 1594124010),
-(10, 'maul', 'admin@gmail.com', 'default.jpg', '$2y$10$Hrt/aiSEfDwTKsx8BGTEg.Eaf4d.BaTYpUYxD6V6bb75XE5nro1ka', 2, 0, 1594124796),
-(11, 'sdfsdf', 'sdss', 'dsds', 'sds', 1, 1, 0);
+(9, 'Admin Etnicode', 'admin@etnicode.com', 'default.jpg', '$2y$10$mqy2anAOos1pIUhgSypBOeujvcZFBUsHvCaiRiI73Y2782MLM9t2G', 1, 1, 1594124010);
 
 -- --------------------------------------------------------
 
@@ -78,6 +116,18 @@ INSERT INTO `user_token` (`id`, `email`, `token`, `date_created`) VALUES
 --
 
 --
+-- Indeks untuk tabel `client`
+--
+ALTER TABLE `client`
+  ADD PRIMARY KEY (`id`);
+
+--
+-- Indeks untuk tabel `portfolio`
+--
+ALTER TABLE `portfolio`
+  ADD PRIMARY KEY (`id`);
+
+--
 -- Indeks untuk tabel `user`
 --
 ALTER TABLE `user`
@@ -92,6 +142,18 @@ ALTER TABLE `user_token`
 --
 -- AUTO_INCREMENT untuk tabel yang dibuang
 --
+
+--
+-- AUTO_INCREMENT untuk tabel `client`
+--
+ALTER TABLE `client`
+  MODIFY `id` int(11) NOT NULL AUTO_INCREMENT, AUTO_INCREMENT=4;
+
+--
+-- AUTO_INCREMENT untuk tabel `portfolio`
+--
+ALTER TABLE `portfolio`
+  MODIFY `id` int(11) NOT NULL AUTO_INCREMENT, AUTO_INCREMENT=36;
 
 --
 -- AUTO_INCREMENT untuk tabel `user`
