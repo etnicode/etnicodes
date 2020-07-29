@@ -3,36 +3,51 @@ defined('BASEPATH') or exit('No direct script access allowed');
 
 class Home extends MY_Controller
 {
+    public function __construct()
+    {
+        parent::__construct();
+        $this->load->model('homeModel');
+    }
+
 
 
     public function index()
     {
-        $this->load->view('index');
+        $data = [
+            'portfolio' => $this->homeModel->get_portfolio(),
+            'client' => $this->homeModel->get_client()
+        ];
+        $this->load->view('index', $data);
     }
 
     public function about()
     {
+
         $this->load->view('about');
     }
     public function privacy()
     {
+
         $this->load->view('privacy');
     }
     public function term()
     {
+
         $this->load->view('term');
     }
+
+
     public function sendMail()
     {
         $receiving_email_address = 'admin@etnicode.com';
 
-        if (file_exists($php_email_form = '../assets/vendor/php-email-form/php-email-form.php')) {
+        if (file_exists($php_email_form = '<?= base_url(); ?>/assets/vendor/php-email-form/php-email-form.php')) {
             include($php_email_form);
         } else {
             die('Unable to load the "PHP Email Form" Library!');
         }
 
-        $contact = new PHP_Email_Form;
+        // $contact = new PHP_Email_Form;
         $contact->ajax = true;
 
         $contact->to = $receiving_email_address;

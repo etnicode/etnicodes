@@ -26,7 +26,7 @@
     <link href="<?= config_item('vendor') ?>aos/aos.css" rel="stylesheet" />
 
     <!-- Template Main CSS File -->
-    <link href="<?= config_item('css') ?>style.css" rel="stylesheet" />
+    <link href="<?= config_item('css') ?>style.home.css" rel="stylesheet" />
 
 
 </head>

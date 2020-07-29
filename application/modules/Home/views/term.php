@@ -2,7 +2,7 @@
 <?php $this->load->view('layout/navbar'); ?>
 <!-- ======= about Section ======= -->
 <!-- ======= About Us Section ======= -->
-<section id="about" class="about">
+<section id="about" class="about mt-5">
     <div class="container">
         <div class="section-title" data-aos="fade-up">
             <h2>Terms of Use</h2>

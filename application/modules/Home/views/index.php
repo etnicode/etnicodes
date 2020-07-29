@@ -27,29 +27,11 @@
   <section id="clients" class="clients clients">
     <div class="container">
       <div class="row">
-        <div class="col-lg-2 col-md-4 col-6">
-          <img src="assets/img/clients/client-1.png" class="img-fluid" alt="" data-aos="zoom-in" />
-        </div>
-
-        <div class="col-lg-2 col-md-4 col-6">
-          <img src="assets/img/clients/client-2.png" class="img-fluid" alt="" data-aos="zoom-in" data-aos-delay="100" />
-        </div>
-
-        <div class="col-lg-2 col-md-4 col-6">
-          <img src="assets/img/clients/client-3.png" class="img-fluid" alt="" data-aos="zoom-in" data-aos-delay="200" />
-        </div>
-
-        <div class="col-lg-2 col-md-4 col-6">
-          <img src="assets/img/clients/client-4.png" class="img-fluid" alt="" data-aos="zoom-in" data-aos-delay="300" />
-        </div>
-
-        <div class="col-lg-2 col-md-4 col-6">
-          <img src="assets/img/clients/client-5.png" class="img-fluid" alt="" data-aos="zoom-in" data-aos-delay="400" />
-        </div>
-
-        <div class="col-lg-2 col-md-4 col-6">
-          <img src="assets/img/clients/client-6.png" class="img-fluid" alt="" data-aos="zoom-in" data-aos-delay="500" />
-        </div>
+        <?php foreach ($client as $c) : ?>
+          <div class="col-lg-2 col-md-4 col-6">
+            <a href=""><img src="<?= base_url('./upload/client/') . $c['image']; ?>" class="img-fluid" alt="" data-aos="zoom-in" /></a>
+          </div>
+        <?php endforeach; ?>
       </div>
     </div>
   </section>
@@ -401,136 +383,29 @@
         <div class="col-lg-12 d-flex justify-content-center">
           <ul id="portfolio-flters">
             <li data-filter="*" class="filter-active">All</li>
-            <li data-filter=".filter-wp">Wordpress</li>
-            <li data-filter=".filter-ds">Desain</li>
+            <li data-filter=".filter-wordpress">Wordpress</li>
+            <li data-filter=".filter-desain">Desain</li>
             <li data-filter=".filter-seo">SEO Website</li>
-            <li data-filter=".filter-wp">Custom Web</li>
+            <li data-filter=".filter-customweb">Custom Web</li>
           </ul>
         </div>
       </div>
 
       <div class="row portfolio-container" data-aos="fade-up" data-aos-delay="400">
-        <div class="col-lg-4 col-md-6 portfolio-item filter-wp">
-          <div class="portfolio-wrap">
-            <img src="assets/img/portfolio/portfolio-1.png" class="img-fluid" alt="" />
-            <div class="portfolio-info">
-              <h4>Wordpress</h4>
-              <p>Wordpress</p>
-              <div class="portfolio-links">
-                <a href="assets/img/portfolio/portfolio-1.png" data-gall="portfolioGallery" class="venobox" title="App 1"><i class="bx bx-plus"></i></a>
-                <a href="portfolio-details.html" title="More Details"><i class="bx bx-link"></i></a>
+        <!-- foreach -->
+        <?php foreach ($portfolio as $p) : ?>
+          <div class="col-lg-4 col-md-6 portfolio-item filter-<?= $p['filter']; ?>">
+            <div class="portfolio-wrap">
+              <img src="<?= base_url('./upload/portfolio/') . $p['image']; ?>" class="img-fluid">
+              <div class="portfolio-info">
+                <h4><?= $p['nama']; ?></h4>
+                <div class="portfolio-links">
+                  <a href="https://<?= $p['link']; ?>" title="Link"><i class="bx bx-link"></i></a>
+                </div>
               </div>
             </div>
           </div>
-        </div>
-
-        <div class="col-lg-4 col-md-6 portfolio-item filter-wp">
-          <div class="portfolio-wrap">
-            <img src="assets/img/portfolio/portfolio-2.png" class="img-fluid" alt="" />
-            <div class="portfolio-info">
-              <h4>Desain</h4>
-              <p>Desain</p>
-              <div class="portfolio-links">
-                <a href="assets/img/portfolio/portfolio-2-png" data-gall="portfolioGallery" class="venobox" title="App 1"><i class="bx bx-plus"></i></a>
-                <a href="portfolio-details.html" title="More Details"><i class="bx bx-link"></i></a>
-              </div>
-            </div>
-          </div>
-        </div>
-
-        <div class="col-lg-4 col-md-6 portfolio-item filter-wp">
-          <div class="portfolio-wrap">
-            <img src="assets/img/portfolio/portfolio-3.png" class="img-fluid" alt="" />
-            <div class="portfolio-info">
-              <h4>SEO Website</h4>
-              <p>SEO Website</p>
-              <div class="portfolio-links">
-                <a href="assets/img/portfolio/portfolio-3.png" data-gall="portfolioGallery" class="venobox" title="Web 3"><i class="bx bx-plus"></i></a>
-                <a href="portfolio-details.html" title="More Details"><i class="bx bx-link"></i></a>
-              </div>
-            </div>
-          </div>
-        </div>
-        <!-- 2 -->
-        <div class="col-lg-4 col-md-6 portfolio-item filter-ds">
-          <div class="portfolio-wrap">
-            <img src="assets/img/portfolio/portfolio-4.png" class="img-fluid" alt="" />
-            <div class="portfolio-info">
-              <h4>SEO Website</h4>
-              <p>SEO Website</p>
-              <div class="portfolio-links">
-                <a href="assets/img/portfolio/portfolio-4.png" data-gall="portfolioGallery" class="venobox" title="Web 3"><i class="bx bx-plus"></i></a>
-                <a href="portfolio-details.html" title="More Details"><i class="bx bx-link"></i></a>
-              </div>
-            </div>
-          </div>
-        </div>
-        <div class="col-lg-4 col-md-6 portfolio-item filter-ds">
-          <div class="portfolio-wrap">
-            <img src="assets/img/portfolio/portfolio-5.png" class="img-fluid" alt="" />
-            <div class="portfolio-info">
-              <h4>SEO Website</h4>
-              <p>SEO Website</p>
-              <div class="portfolio-links">
-                <a href="assets/img/portfolio/portfolio-5.png" data-gall="portfolioGallery" class="venobox" title="Web 3"><i class="bx bx-plus"></i></a>
-                <a href="portfolio-details.html" title="More Details"><i class="bx bx-link"></i></a>
-              </div>
-            </div>
-          </div>
-        </div>
-        <div class="col-lg-4 col-md-6 portfolio-item filter-ds">
-          <div class="portfolio-wrap">
-            <img src="assets/img/portfolio/portfolio-6.png" class="img-fluid" alt="" />
-            <div class="portfolio-info">
-              <h4>SEO Website</h4>
-              <p>SEO Website</p>
-              <div class="portfolio-links">
-                <a href="assets/img/portfolio/portfolio-6.png" data-gall="portfolioGallery" class="venobox" title="Web 3"><i class="bx bx-plus"></i></a>
-                <a href="portfolio-details.html" title="More Details"><i class="bx bx-link"></i></a>
-              </div>
-            </div>
-          </div>
-        </div>
-        <div class="col-lg-4 col-md-6 portfolio-item filter-seo">
-          <div class="portfolio-wrap">
-            <img src="assets/img/portfolio/portfolio-7.png" class="img-fluid" alt="" />
-            <div class="portfolio-info">
-              <h4>SEO Website</h4>
-              <p>SEO Website</p>
-              <div class="portfolio-links">
-                <a href="assets/img/portfolio/portfolio-7.png" data-gall="portfolioGallery" class="venobox" title="Web 3"><i class="bx bx-plus"></i></a>
-                <a href="portfolio-details.html" title="More Details"><i class="bx bx-link"></i></a>
-              </div>
-            </div>
-          </div>
-        </div>
-        <div class="col-lg-4 col-md-6 portfolio-item filter-seo">
-          <div class="portfolio-wrap">
-            <img src="assets/img/portfolio/portfolio-7.png" class="img-fluid" alt="" />
-            <div class="portfolio-info">
-              <h4>SEO Website</h4>
-              <p>SEO Website</p>
-              <div class="portfolio-links">
-                <a href="assets/img/portfolio/portfolio-8.png" data-gall="portfolioGallery" class="venobox" title="Web 3"><i class="bx bx-plus"></i></a>
-                <a href="portfolio-details.html" title="More Details"><i class="bx bx-link"></i></a>
-              </div>
-            </div>
-          </div>
-        </div>
-        <div class="col-lg-4 col-md-6 portfolio-item filter-seo">
-          <div class="portfolio-wrap">
-            <img src="assets/img/portfolio/portfolio-8.png" class="img-fluid" alt="" />
-            <div class="portfolio-info">
-              <h4>SEO Website</h4>
-              <p>SEO Website</p>
-              <div class="portfolio-links">
-                <a href="assets/img/portfolio/portfolio-8.png" data-gall="portfolioGallery" class="venobox" title="Web 3"><i class="bx bx-plus"></i></a>
-                <a href="portfolio-details.html" title="More Details"><i class="bx bx-link"></i></a>
-              </div>
-            </div>
-          </div>
-        </div>
-
+        <?php endforeach; ?>
       </div>
     </div>
   </section>
@@ -825,7 +700,7 @@
         </div>
 
         <div class="col-lg-5 col-md-12" data-aos="fade-up" data-aos-delay="300">
-          <form action="<?= config_item('Home/sendMail'); ?>" method="post" class="php-email-form">
+          <form action="<?= base_url('Home/sendMail'); ?>" role="form" method="post" class="php-email-form">
             <div class="form-group">
               <input type="text" name="name" class="form-control" id="name" placeholder="Your Name" data-rule="minlen:4" data-msg="Please enter at least 4 chars" />
               <div class="validate"></div>
